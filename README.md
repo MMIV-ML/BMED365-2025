@@ -26,6 +26,7 @@ The objective and content of the course address: The computational mindset, imag
 
 # Tentative time schedule
 
+(For February '25 see [here](https://mitt.uib.no/calendar?include_contexts=course_50785#view_name=agenda&view_start=2024-12-29))
 
 | **TIME**                    | ACTIVITY                                                                               |
 | --------------------------- | -------------------------------------------------------------------------------------- |
