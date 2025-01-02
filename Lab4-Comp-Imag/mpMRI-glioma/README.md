@@ -1,4 +1,4 @@
-# Lab 1: Brain imaging (mpMRI) in glioma
+# Lab 4: Brain imaging (mpMRI) in glioma
 
 This lab will give an example-based introduction to multiparametric Magnetic Resonance Imaging (mpMRI) of brain tumor (glioma), using Python and toolkits for computational medical imaging and analysis.
 
@@ -20,6 +20,8 @@ The following notebook is essentially a copy of the multi-class semantic segment
 |:----------|------|
 |  [Lab1-1-BRATS-3D-fastMONAI-extended.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab1-1-BRATS-3D-fastMONAI-extended.ipynb)<br> Multi-class semantic segmentation of a glioma from mpMRI recordings<br> *If on Colab*: Remember to attach a GPU to your Colab Runtime:<br>1. From the **Runtime** menu select **Change Runtime Type**<br>2. Choose **GPU** (T4 GPU) from the drop-down menu<br>3. Click **'SAVE'** (~3 min to install fastMONAI with GPU attached) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab1-1-BRATS-3D-fastMONAI-extended.ipynb)|
 
+
+<!--
 
 ### Going deeper (wider)?
 Some additional (optional) example-based introductions to (bio)medical imaging is in [Lab-optional-imganing](./Lab-optional-imaging)
@@ -44,3 +46,4 @@ Spend some time playing around with the provided examples. You'll find some ques
 * https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
 * https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 
+-->
