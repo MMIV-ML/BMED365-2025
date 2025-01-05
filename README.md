@@ -52,7 +52,7 @@ All course material is openly available on this GitHub repository. (See also [EL
 | **Fri, Jan 10**    |                                                                                                 |
 | 10:15-11:30<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)        |
 |                             | *Alexander Lundervold*                                                      |
-| 11:45-13:00<br>BB Hist 1    | [LAB 1: Network science and patient similarity networks (PSN)](./Lab1-NetworkSci-PSN)                                                                                         |
+| 11:45-13:00<br>BB Hist 1    | [LAB 1: Network science and patient similarity networks (PSN)](./Lab1-NetworkSci-PSN)        |
 |                             | *Arvid Lundervold*                                                                     |
 | **WEEK 3:<br>Tue, Jan 14**    |                                                                                       |
 | 09:15-13:00<br>BB Hist 1    | [AI-assisted innovation cont.](AI-innovation.md) & Python programming; recap of Lab0, Lab1     |
