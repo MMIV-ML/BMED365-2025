@@ -67,10 +67,10 @@ All course material is openly available on this GitHub repository. (See also [EL
 | 13:15-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
 |                             | *Arvid and Alexander Lundervold*                                                              |
 |  **WEEK 5:<br>Tue, Jan 28**  |                                                                                        |
-| 08:15-10:00<br>BB Hist 1    | Project presentations by team  (jointly with BMED365)                                  |
+| 08:15-10:00<br>BB Hist 1    | Project presentations by team  (jointly with ELMED219)                                  |
 |                             | *Arvid and Alexander Lundervold*                                                      |
 | **Thu, Jan 30**   |                                                                                        |
-| 16:00                       | Deadline for the Team Project Report - joint with BMED365 (hand in via MittUiB)        |
+| 16:00                       | Deadline for the Team Project Report - joint with ELMED219 (hand in via MittUiB)        |
 | **Fri, Jan 31**   |                                                                                        |
 | 08:15-10:00                 | Motivation lecture - Computational imaging       |
 |                             | *Arvid Lundervold*                                                                 |
