@@ -1,0 +1,59 @@
+name: bmed365-cuda
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipython
+  - ipykernel
+  - ipywidgets
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - git
+  - pip
+  - pip:
+    - gdown
+    - pycaret
+    - shap
+    - catboost
+    - xgboost
+    - pyreadstat
+    - statsmodels
+    - pingouin
+    - voila
+    - scikit-learn
+    - scikit-image
+    - SimpleITK
+    - itkwidgets
+    - imageio
+    - dcm2niix
+    - readimc
+    - tiffile
+    - nilearn
+    - networkx
+    - dipy
+    - openpyxl
+    - pygraphviz     # Lab1
+    - pydot          # Lab1
+    - python-louvain # Lab1
+    - openai
+    - torch-geometric
+
+## Configure the Conda-environment bmed365-cuda for data analysis, computational imaging and modeling (only once):
+# conda env create -f environment-cuda.yml
+
+## To make a BMED365-CUDA kernel (optional):
+# python -m ipykernel install --user --name bmed365-cuda --display-name "BMED365-CUDA"
+
+## To activate the BMED365-CUDA conda environment:
+# conda activate bmed365-cuda
+
+## To update the bmed365-cuda conda environment:
+# conda env update -f environment-cuda.yml
+
+## To remove and reinstall the bmed365-cuda environment (if installation problems):
+# conda deactivate
+# conda env remove -n bmed65-cuda
+# conda env create -f environment-cuda.yml
