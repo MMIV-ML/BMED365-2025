@@ -1,3 +1,5 @@
+_Please provide the most resent research on the use of Patient Similarity Networks for integrating heterogeneous data in order to identify patient subtypes and to predict outcome (classification) of previously unseen new patients._
+
 # **Patient Similarity Networks for Integrating Heterogeneous Data to Identify Patient Subtypes and Predict Outcomes**
 
 ## **Introduction**
