@@ -1,4 +1,6 @@
-![][image1]
+![Konigsberg](https://static.scientificamerican.com/dam/m/227ee895345349ed/original/sevenBridges_graphic_d1.png?m=1713835647.137&w=2000)
+
+[video](https://drive.google.com/file/d/143DbttC2hs-t5DbXJhzG599mp4v5_zCX/view?resourcekey) 
 
 Claude 3.5 Sonnet:
 
