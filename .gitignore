@@ -16,3 +16,6 @@ Lab0-ML/Lab0-begin-python-pandas-medim/.vscode
 # Avoid interference with the BMED365-2025 repo when using private notebooks etc. for experimentation
 my_stuff/
 
+# Ignore TabPFN stuff
+src/tabpfn
+src/tabpfn-extensions
