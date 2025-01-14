@@ -38,6 +38,7 @@ dependencies:
     - pygraphviz     # Lab1
     - pydot          # Lab1
     - python-louvain # Lab1
+    - pytorch_lightning  # Lab2
     - openai
     - torch-geometric
     - hyperopt
