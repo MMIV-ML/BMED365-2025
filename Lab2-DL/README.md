@@ -2,7 +2,7 @@
 
 This lab is part of our journey through the concepts and applications of deep learning in medicine and biomedical research.<br>
 Some of the material has inspiration from and links to the work of great educators and researchers in the field, e.g. [Grant Sanderson](https://www.3blue1brown.com/about), [Daniel Bourke](https://www.mrdbourke.com/about), and [Andrej Karpathy](https://karpathy.ai)<br>
-_update: 2024-12-31_
+_update: 2025-01-15_
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
 <img src="../assets/GPT-MedAI.png" width="600"><br>
@@ -14,6 +14,24 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vRyU9n7YY6vI6B0Al2S0W9rTt_l9CPvJ-ISgVsNa_b_5y6G7JTsLVYnZeejdakNmXrx7WMFoU8d7TEY/pub?start=false&loop=false&delayms=3000"><img src="./assets/Lab2_slide0_2025.png"></a>
 
 -----
+
+### Notebooks
+
+
+
+| Notebook    |      1-Click Notebook     
+|:----------|------|
+|  [00-Pytorch-Lightning-basics.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab2-DL/notebooks/00-Pytorch-Lightning-basics.ipynb)  <br>A short introduction to Pytorch Lightning for medical students - an AI-assisted notebook prompted and created in "15 minutes" with [cursor](https://www.cursor.com) and [claude-3.5-sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab2-DL/notebooks/00-Pytorch-Lightning-basics.ipynb)<br>
+|  [01-MNIST-collect-organize.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/00-introduction-slides.ipynb)  <br>MNIST data collection, inspection and organization. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/00-introduction-slides.ipynb)<br>
+|  [02-MNIST-Classification-with-Random-Forest.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/01-networkx-tutorial.ipynb)  <br>You can use NetworkX to construct and draw graphs that are undirected or directed, with weighted or unweighted edges. A large collection of functions to analyze graphs is available. This tutorial takes you through a few basic examples and exercises | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/01-networkx-tutorial.ipynb)<br>
+|  [03-MNIST-Classification-with-MLP.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/02-patient-similarity-networks-iris.ipynb)  <br>Rather than patient-derived data, we are using the famous  IRIS flower dataset with 4 different measurements from each of the 150 flowers - construction and exploring the "IRIS Flower Similarity Network" | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/02-patient-similarity-networks-iris.ipynb)<br>
+|  [04-MNIST-Classifcation-with-CNN.ipynb](./notebooks/03-patient-similarity-networks-ibs-brain.ipynb)  <br>Patient Similarity Networks using data from the paper _Brain morphometry and cognitive features in prediction of irritable bowel syndrome_ [[preprint](https://www.preprints.org/manuscript/202412.2149/v1)] (https://github.com/arvidl/ibs-brain)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/03-patient-similarity-networks-ibs-brain.ipynb)<br>
+|  [05-BrainTumor-Segmentation.ipynb](./notebooks/03-patient-similarity-networks-ibs-brain.ipynb)  <br>Patient Similarity Networks using data from the paper _Brain morphometry and cognitive features in prediction of irritable bowel syndrome_ [[preprint](https://www.preprints.org/manuscript/202412.2149/v1)] (https://github.com/arvidl/ibs-brain)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/03-patient-similarity-networks-ibs-brain.ipynb)<br>
+|  [06-TabPFN-explore.ipynb](./notebooks/03-patient-similarity-networks-ibs-brain.ipynb)  <br>Patient Similarity Networks using data from the paper _Brain morphometry and cognitive features in prediction of irritable bowel syndrome_ [[preprint](https://www.preprints.org/manuscript/202412.2149/v1)] (https://github.com/arvidl/ibs-brain)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/03-patient-similarity-networks-ibs-brain.ipynb)<br>
+
+
+
+</p>
 
 ## Learning motivations - watch these
 (in the order of duration ...)
