@@ -2,7 +2,7 @@
 
 This lab is part of our journey through the concepts and applications of deep learning in medicine and biomedical research.<br>
 Some of the material has inspiration from and links to the work of great educators and researchers in the field, e.g. [Grant Sanderson](https://www.3blue1brown.com/about), [Daniel Bourke](https://www.mrdbourke.com/about), and [Andrej Karpathy](https://karpathy.ai)<br>
-_update: 2025-01-15_
+_update: 2025-01-16_
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
 <img src="../assets/GPT-MedAI.png" width="600"><br>
@@ -11,7 +11,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ## Slides 
 <in progress ...>
 
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vRyU9n7YY6vI6B0Al2S0W9rTt_l9CPvJ-ISgVsNa_b_5y6G7JTsLVYnZeejdakNmXrx7WMFoU8d7TEY/pub?start=false&loop=false&delayms=3000"><img src="./assets/Lab2_slide0_2025.png"></a>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vRUu4XSPSOL6nHyeIpbJATMKvu4lWcjosw5sWUG3iDlNWbHTK-6MRj3VfxepE9Vw2CDM25dikA8XFuU/pub?start=false&loop=false&delayms=3000"><img src="./assets/Lab2_slide0_2025.png"></a>
 
 -----
 
@@ -29,7 +29,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 |  [04-MNIST-Classifcation-with-CNN.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/04-MNIST-Classification-with-CNN.ipynb)  <br>MNIST classification using a convolutional neural network, CNN.| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/04-MNIST-Classifcation-with-CNN.ipynb)<br>
 |  [05-BrainTumor-Segmentation.ipynb]()  <br>Brain tumor segmentation from multiparametric MRI data.| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/05-BrainTumor-Segmentation.ipynb)<br>
 |  [06-TabPFN-explore.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/06-TabPFN-explore.ipynb)  <br>Exploring deep learning analysis of tabular data with TabPFN.| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/06-TabPFN-explore.ipynb)<br>
-
+|  [07-TabPFN-neuro.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/07-TabPFN-neuro.ipynb)  <br>Deep learning analysis of tabular data with TabPFN applied to neuroscience.| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/07-TabPFN-neuro.ipynb)<br>
 
 
 </p>
