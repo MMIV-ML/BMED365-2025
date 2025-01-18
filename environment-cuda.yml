@@ -46,6 +46,7 @@ dependencies:
     - tabpfn
     - "git+https://github.com/PriorLabs/TabPFN.git#egg=tabpfn[dev]"
     - "git+https://github.com/priorlabs/tabpfn-extensions.git#egg=tabpfn-extensions"
+    - ucimlrepo  # UC Irivine ML repository
 
 ## Configure the Conda-environment bmed365-cuda for data analysis, computational imaging and modeling (only once):
 # conda env create -f environment-cuda.yml
