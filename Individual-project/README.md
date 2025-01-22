@@ -22,8 +22,8 @@ This individual project takes place between the first and second blocks of BMED3
 * Faculty guidance is available for topic selection during early preparation
 
 ### Digital Poster
-* Create your poster using the [suggested template]
-* See [example using the template] for reference
+* Create your poster using the [suggested template](./assets/BMED365_poster_70x120_template.pptx)
+* See [example using the template](./assets/POSTER_EXAMPLE_2021_MMIV_conf_Tumor_CNR_poster_70x120.pptx) for reference
 * Submit through Mitt UiB before the end of block two
 
 ### Speed Presentation
