@@ -190,6 +190,25 @@ Key takeaway: Because the expected score per question is relatively high (E[S] =
 Therefore, the probability of getting at least 10 points on the exam by purely guessing is 
 approximately **3.873%**.
 
+
+-----
+
+**Google AI Studio: Gemini 2.0 Flaah Thinking Experimental 01-21** (https://aistudio.google.com/prompts/1GWtE8KB4GXwzE4KWouh1mRkLmawdYALw)
+
+Let $P_0 = P(X_i=0) = \frac{3}{10}$, $P_3 = P(X_i=3) = \frac{6}{10}$, $P_5 = P(X_i=5) = \frac{1}{10}$.
+We want to find the probability of getting at least 10 points, i.e., $P(S \ge 10)$, where $S = \sum_{i=1}^8 X_i$.
+It is easier to calculate $P(S < 10) = P(S=0) + P(S=3) + P(S=5) + P(S=6) + P(S=8) + P(S=9)$.
+$P(S=0) = \binom{8}{8} P_0^8 = (\frac{3}{10})^8 \approx 0.00006561$.
+$P(S=3) = \binom{8}{1} P_0^7 P_3^1 = 8 (\frac{3}{10})^7 (\frac{6}{10}) \approx 0.00104976$.
+$P(S=5) = \binom{8}{1} P_0^7 P_5^1 = 8 (\frac{3}{10})^7 (\frac{1}{10}) \approx 0.00017496$.
+$P(S=6) = \binom{8}{2} P_0^6 P_3^2 = 28 (\frac{3}{10})^6 (\frac{6}{10})^2 \approx 0.00734832$.
+$P(S=8) = \binom{8}{1, 1, 6} P_0^6 P_3^1 P_5^1 = \frac{8!}{6!1!1!} P_0^6 P_3^1 P_5^1 = 56 (\frac{3}{10})^6 (\frac{6}{10}) (\frac{1}{10}) \approx 0.00244944$.
+$P(S=9) = \binom{8}{3} P_0^5 P_3^3 = \binom{8}{5} P_0^5 P_3^3 = 56 (\frac{3}{10})^5 (\frac{6}{10})^3 \approx 0.02939328$.
+$P(S < 10) = P(S=0) + P(S=3) + P(S=5) + P(S=6) + P(S=8) + P(S=9) \approx 0.00006561 + 0.00104976 + 0.00017496 + 0.00734832 + 0.00244944 + 0.02939328 = 0.04048137$.
+$P(S \ge 10) = 1 - P(S < 10) = 1 - 0.04048137 \approx 0.95951863$.
+
+Final Answer: The final answer is $\boxed{0.9595}$
+
 -----
 
 **Claude 3.5 Sonnet**:
