@@ -207,7 +207,7 @@ $P(S=9) = \binom{8}{3} P_0^5 P_3^3 = \binom{8}{5} P_0^5 P_3^3 = 56 (\frac{3}{10}
 $P(S < 10) = P(S=0) + P(S=3) + P(S=5) + P(S=6) + P(S=8) + P(S=9) \approx 0.00006561 + 0.00104976 + 0.00017496 + 0.00734832 + 0.00244944 + 0.02939328 = 0.04048137$.
 $P(S \ge 10) = 1 - P(S < 10) = 1 - 0.04048137 \approx 0.95951863$.
 
-Final Answer: The final answer is $\boxed{0.9595}$
+Final Answer: The final answer is **$\boxed{0.9595}$** (after 80 sec)
 
 -----
 
