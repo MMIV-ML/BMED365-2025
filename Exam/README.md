@@ -193,7 +193,7 @@ approximately **3.873%**.
 
 -----
 
-**Google AI Studio: Gemini 2.0 Flaah Thinking Experimental 01-21** (https://aistudio.google.com/prompts/1GWtE8KB4GXwzE4KWouh1mRkLmawdYALw)
+**Google AI Studio: Gemini 2.0 Flash Thinking Experimental 01-21** (https://aistudio.google.com/prompts/1GWtE8KB4GXwzE4KWouh1mRkLmawdYALw)
 
 Let $P_0 = P(X_i=0) = \frac{3}{10}$, $P_3 = P(X_i=3) = \frac{6}{10}$, $P_5 = P(X_i=5) = \frac{1}{10}$.
 We want to find the probability of getting at least 10 points, i.e., $P(S \ge 10)$, where $S = \sum_{i=1}^8 X_i$.
