@@ -74,13 +74,13 @@ All course material is openly available on this GitHub repository. (See also [EL
 | **Fri, Jan 31**   |                                                                                        |
 | 08:15-10:00                 | Motivation lecture - Computational imaging       |
 |                             | *Arvid Lundervold*                                                                 |
-| **WEEK 6:<br>Mon, Feb 03<br>- Fri, Feb 07** |  Personal project during the week  |
-| **WEEK 7:<br>Mon, Feb 10<br>- Fri, Feb 14** |   Personal project during the week |
+| **WEEK 6:<br>Mon, Feb 03<br>- Fri, Feb 07** |  [Individual project](./Individual-project) during the week  |
+| **WEEK 7:<br>Mon, Feb 10<br>- Fri, Feb 14** |  [Individual project](./Individual-project) during the week |
 | **WEEK 8:<br>Mon, Feb 17**   |    |
 | 08:15-10:00 | [Lab 4: Computational imaging](./Lab4-Comp-Imag)    |
 |                             | *Arvid Lundervold*                                        |
 | **Wed, Feb 19** |   |
-| 08:15-10:00 | Personal project presentation ("digital speed poster") |
+| 08:15-10:00 | Individual project presentation ("digital speed poster") |
 | **Fri, Feb 21** |     |
 | 14:15-16:00 | Motivation lecture - Computational modeling  |
 |                             | *Arvid Lundervold*                                        |
