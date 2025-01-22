@@ -1,6 +1,6 @@
 # Lab 4: Computational imaging
 
-This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications. It is designed to give you a comprehensive understanding of how computational imaging is transforming society in general and biomedicine in particular and the role it will play in the future of biomedical research.<br>  _update: 2025-01-01_
+This lab is part of our journey through computational imaging and modeling techniques, and the use of AI in biomedical applications. It is designed to give you a comprehensive understanding of how computational imaging is transforming society in general and biomedicine in particular and the role it will play in the future of biomedical research.<br>  _update: 2025-01-22_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -23,6 +23,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
+|  [00-test-installation.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/BMED365-2025/blob/main/Lab4-Comp-Imag/00-test-installation.ipynb)<br> Test your installation   | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab4-Comp-Imag/00-test-installation.ipynb)|
 |  [01-imaging-intro.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/01-imaging-intro.ipynb)<br> Illustration of basic concepts and methods in imaging   | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/01-imaging-intro.ipynb)|
 |  [02-mri-intro.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/02-mri-intro.ipynb)<br> Introduction to Magnetic Resonance Imaging   | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/02-mri-intro.ipynb)|
 |  [03-imc-intro.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/03-imc-intro.ipynb)<br> Introduction to Imaging Mass Cytometry   | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/03-imc-intro.ipynb)|
