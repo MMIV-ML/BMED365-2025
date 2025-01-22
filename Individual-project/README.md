@@ -1,6 +1,6 @@
 # Individual Project (BMED365): Digital Poster and Speed Presentation
 
-_Individual Project - Weeks 6-7:  You will work independently on your project during Weeks 6 and 7. 
+_**Individual Project - Weeks 6-7**:  You will work independently on your project during Weeks 6 and 7. 
 You have the flexibility to complete this work at your preferred time and location. The projects will culminate in a "speed-poster" presentation session on February 14th from 8:15 AM to 12:00 PM._
 
 ## Overview
