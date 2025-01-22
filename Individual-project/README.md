@@ -1,5 +1,8 @@
 # Individual Project (BMED365): Digital Poster and Speed Presentation
 
+_Individual Project - Weeks 6-7:  You will work independently on your project during Weeks 6 and 7. 
+You have the flexibility to complete this work at your preferred time and location. The projects will culminate in a "speed-poster" presentation session on February 14th from 8:15 AM to 12:00 PM._
+
 ## Overview
 This individual project takes place between the first and second blocks of BMED365. While the second block focuses on computational biomedical imaging (MRI, IMC, etc.) and modeling, students will work independently on a project of their choice within the course scope. This project consists of two main deliverables:
 1. A digital poster submitted through Mitt UiB
