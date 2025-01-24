@@ -36,6 +36,7 @@ dependencies:
     - nilearn
     - networkx
     - dipy
+    - templateflow
     - openpyxl
     - pygraphviz     # Lab1
     - pydot          # Lab1
