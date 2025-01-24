@@ -15,6 +15,7 @@ dependencies:
   - pip
   - pip:
     - gdown
+    - pooch
     - pycaret
     - shap
     - catboost
