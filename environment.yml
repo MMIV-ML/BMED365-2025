@@ -28,6 +28,7 @@ dependencies:
     - SimpleITK
     - itkwidgets
     - imageio
+    - pydicom
     - dcm2niix
     - readimc
     - tiffile
@@ -38,6 +39,8 @@ dependencies:
     - pygraphviz     # Lab1
     - pydot          # Lab1
     - python-louvain # Lab1
+    - ucimlrepo
+    - streamlit
 
 ## Configure the Conda-environment bmed365-2025 for data analysis, computational imaging and modeling (only once):
 # conda env create -f environment.yml
