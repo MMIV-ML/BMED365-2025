@@ -23,7 +23,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
-|  [00-test-llm.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/BMED365-2025/blob/main/Lab5-Comp-Mod/00-test-llm.ipynb)<br> Test your installation   | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab5-Comp-Mod/00-test-llm.ipynb)|
+|  [00-test-llm.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/BMED365-2025/blob/main/Lab5-Comp-Mod/00-test-llm.ipynb)<br> Test and explore a local LLM installation of the powerful DeepSeek R1 (the Destilled deepseek-r1:70b)   | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab5-Comp-Mod/00-test-llm.ipynb)|
 
 ---
 
