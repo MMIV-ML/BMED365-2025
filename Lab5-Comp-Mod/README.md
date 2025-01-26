@@ -9,7 +9,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 ---------------
 
-## Slidesimaging
+## Slides modeling
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vSbqBdFr48AsKBBS1Jo6NG1dW56XHawfqlR5PbQbJRsFPe8jTNCtrBox4Kt3EkjaKJfMhBXr75mfJGA/pub?start=false&loop=false&delayms=3000"><img src="../BMED365-2025/assets/Lab4-slide-0.png"></a>
 
