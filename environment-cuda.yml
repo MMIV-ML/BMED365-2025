@@ -43,6 +43,7 @@ dependencies:
     - python-louvain # Lab1
     - pytorch_lightning  # Lab2
     - openai
+    - llm
     - torch-geometric
     - hyperopt
     # TabPFN            # https://github.com/PriorLabs/tabpfn
