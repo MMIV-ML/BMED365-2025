@@ -72,7 +72,7 @@ All course material is openly available on this GitHub repository. (See also [EL
 | **Thu, Jan 30**   |                                                                                        |
 | 16:00                       | Deadline for the Team Project Report - joint with ELMED219 (hand in via MittUiB)        |
 | **Fri, Jan 31**   |                                                                                        |
-| 08:15-10:00                 | Motivation lecture - Computational imaging       |
+| 08:15-10:00                 | Motivation lecture - [Computational imaging](https://docs.google.com/presentation/d/e/2PACX-1vRN7-O_W_fPgto-JMJZdl4kM1KnLKWhATgUSjpmz0e8RwjC2yYi9o_9Kz92RxpacRLTT3fMviDOMUmf/pub?start=false&loop=false&delayms=3000)      |
 |                             | *Arvid Lundervold*                                                                 |
 | **WEEK 6:<br>Mon, Feb 03<br>- Fri, Feb 07** |  [Individual project](./Individual-project) during the week  |
 | **WEEK 7:<br>Mon, Feb 10<br>- Fri, Feb 14** |  [Individual project](./Individual-project) during the week |
