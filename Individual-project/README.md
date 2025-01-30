@@ -1,6 +1,6 @@
 ## Individual Project (BMED365): Digital Poster and Speed Presentation
 
-_**Individual Project - Weeks 6-7 2025**:  You will work independently on your individual (**topic selected by you according to guidelines**) project during Weeks 6 and 7. 
+_**Individual Project - Weeks 6-7 2025**:  You will work independently on your individual (**topic selected by you according to guidelines***) project during Weeks 6 and 7. 
 You have the flexibility to complete this work at your preferred time and location. The projects will culminate in a "speed-poster" presentation session on February 14th from 8:15 AM to 12:00 PM._
 
 ## Overview
@@ -8,7 +8,7 @@ This individual project takes place between the first and second blocks of BMED3
 1. A digital poster submitted through Mitt UiB
 2. A "speed-poster" presentation to fellow students
 
-## Project Guidelines
+## *)Project Guidelines
 
 ### Topic Selection
 * Choose a topic from the BMED365 curriculum that includes one or more of:
