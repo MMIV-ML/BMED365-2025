@@ -8,7 +8,7 @@ This individual project takes place between the first and second blocks of BMED3
 1. A digital poster submitted through Mitt UiB
 2. A "speed-poster" presentation to fellow students
 
-## *)Project Guidelines
+## *Project Guidelines
 
 ### Topic Selection
 * Choose a topic from the BMED365 curriculum that includes one or more of:
