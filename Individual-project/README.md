@@ -44,7 +44,7 @@ This individual project takes place between the first and second blocks of BMED3
 
 ## Course Requirements
 * This individual project (poster + presentation) is a mandatory assignment
-* The course also includes a final digital home exam in Inspera:
+* The course also includes a **final digital home exam in Inspera**:
   * Duration: 3 hours (Mon 03.03.2025	09:00 - 12:00)
   * Format: Multiple choice questions and essays; use of AI encouraged.
   * Grading: Pass/Fail
