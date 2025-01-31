@@ -62,7 +62,7 @@ All course material is openly available on this GitHub repository. (See also [EL
 |                             | *Arvid Lundervold*                                        |
 | **WEEK 4:<br>Team project**  |  Joint with BMED365 - Working on the course project in interdisciplinary teams (during the week)  |
 | **Tue, Jan 21**   |                                                                                        |
-| 09:15-12:00<br>BB Hist 1    | [Lab 3: Generative AI and Large Language Models](.)                           |
+| 09:15-12:00<br>BB Hist 1    | [Lab 3: Generative AI and Large Language Models](https://www.dropbox.com/scl/fi/5dt9xj09935kyehqmjrwi/ELMED219-2025-3-LLMs.pdf?rlkey=mfyt91chrjz151bsj0gm6kank&st=ehqnnbg9&dl=1)                           |
 |                             | *Alexander Lundervold*                                                                     |
 | 13:15-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
 |                             | *Arvid and Alexander Lundervold*                                                              |
