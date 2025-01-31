@@ -91,7 +91,7 @@ All course material is openly available on this GitHub repository. (See also [EL
 | 08:15-10:00 | Summing up / reflections     |
 |                             | *Arvid Lundervold*                 |
 | **WEEK 10:**  |  |
-| **Mon, Mar 03** |[**Home exam**](./Exam#readme): Duration: 3 hours;  <br>Assignment is handed out: 03.03.2025, 09:00; <br>Submission deadline: 03.03.2025, 13:00; <br>Examination system: Inspera Digital exam
+| **Mon, Mar 03** |[**Home exam**](./Exam#readme): Duration: 3 hours;  <br>Assignment is handed out: 03.03.2025, 09:00; <br>Submission deadline: 03.03.2025, 12:00; <br>Examination system: Inspera Digital exam
 
 
 ### Previous versions of the BMED365 course
