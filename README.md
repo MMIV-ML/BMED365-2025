@@ -80,7 +80,7 @@ All course material is openly available on this GitHub repository. (See also [EL
 | 08:15-10:00 | [Lab 4: Computational imaging](./Lab4-Comp-Imag)    |
 |                             | *Arvid Lundervold*                                        |
 | **Wed, Feb 19** |   |
-| 08:15-12:00 | Individual project presentation ("digital speed poster") |
+| 08:15-12:00 | [Individual project](./Individual-project) presentation ("digital speed poster") Upload poster (only) to MittUiB the day before |
 | **Fri, Feb 21** |     |
 | 14:15-16:00 | Motivation lecture - Computational modeling  |
 |                             | *Arvid Lundervold*                                        |
