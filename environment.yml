@@ -15,7 +15,6 @@ dependencies:
   - pip
   - pip:
     - gdown
-    - pooch
     - pycaret
     - shap
     - catboost
@@ -29,19 +28,16 @@ dependencies:
     - SimpleITK
     - itkwidgets
     - imageio
-    - pydicom
     - dcm2niix
     - readimc
     - tiffile
     - nilearn
     - networkx
     - dipy
-    - templateflow
     - openpyxl
     - pygraphviz     # Lab1
     - pydot          # Lab1
     - python-louvain # Lab1
-    - ucimlrepo
     - streamlit
 
     
@@ -60,5 +56,5 @@ dependencies:
 
 ## To remove and reinstall the bmed365-2025 environment (if installation problems):
 # conda deactivate
-# conda env remove -n bmed65-2025
+# conda env remove -n bmed365-2025
 # conda env create -f environment.yml
