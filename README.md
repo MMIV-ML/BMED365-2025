@@ -82,7 +82,7 @@ All course material is openly available on this GitHub repository. (See also [EL
 | **Wed, Feb 19** |   |
 | 08:15-12:00 | [Individual project](./Individual-project) presentation ("digital speed poster"). Upload poster (only) to MittUiB the day before |
 | **Fri, Feb 21** |     |
-| 14:15-16:00 | Motivation lecture - Computational modeling  |
+| 14:15-16:00 | Motivation lecture - [Computational modeling](https://docs.google.com/presentation/d/e/2PACX-1vRAj8tVNHD1cQ8yC2iE-5SuMmMYE6ax2ueGk22aatdXpgjvuDzrIYQh7jyIU44_7QNrWvkyE4lczbGo/pub?start=false&loop=false&delayms=3000)  |
 |                             | *Arvid Lundervold*                                        |
 | **WEEK 9:<br>Mon, Feb 24**|     |
 | 08:15-10:00 |  [Lab 5: Computational modeling](.) |
