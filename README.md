@@ -85,7 +85,7 @@ All course material is openly available on this GitHub repository. (See also [EL
 | 14:15-16:00 | Motivation lecture - [Computational modeling](https://docs.google.com/presentation/d/e/2PACX-1vRAj8tVNHD1cQ8yC2iE-5SuMmMYE6ax2ueGk22aatdXpgjvuDzrIYQh7jyIU44_7QNrWvkyE4lczbGo/pub?start=false&loop=false&delayms=3000)  |
 |                             | *Arvid Lundervold*                                        |
 | **WEEK 9:<br>Mon, Feb 24**|     |
-| 08:15-10:00 |  [Lab 5: Computational modeling](.) |
+| 08:15-10:00 |  [Lab 5: Computational modeling](https://docs.google.com/presentation/d/e/2PACX-1vTM1NY3r8nyZgdfhkJgsdTZDpANGwPscmXWB49cw5SHZgS20MsI6abjUzog0Ez6h_RR3e6F5qadZutD/pub?start=false&loop=false&delayms=3000) |
 |        | _Arvid Lundervold_ |
 | **Fri, Feb 28** |  |
 | 08:15-10:00 | Summing up / reflections     |
