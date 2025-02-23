@@ -39,6 +39,7 @@ dependencies:
     - pydot          # Lab1
     - python-louvain # Lab1
     - streamlit
+    - sympy
 
     
 
