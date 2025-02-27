@@ -88,7 +88,7 @@ All course material is openly available on this GitHub repository. (See also [EL
 | 08:15-10:00 |  [Lab 5: Computational modeling](https://docs.google.com/presentation/d/e/2PACX-1vTM1NY3r8nyZgdfhkJgsdTZDpANGwPscmXWB49cw5SHZgS20MsI6abjUzog0Ez6h_RR3e6F5qadZutD/pub?start=false&loop=false&delayms=3000) |
 |        | _Arvid Lundervold_ |
 | **Fri, Feb 28** |  |
-| 08:15-10:00 | Summing up / reflections     |
+| 08:15-10:00 | Summing up / reflections   [BMED-365 Aftermath](https://docs.google.com/presentation/d/e/2PACX-1vSxkRzv2B4vcKg3Cdl-AYTG7OVCrftlMkTl4ctkzIWlMCb5rgnls4VpJeo-ZJ4kmE4ouHSOSvdk4iAI/pub?start=false&loop=false&delayms=3000)  |
 |                             | *Arvid Lundervold*                 |
 | **WEEK 10:**  |  |
 | **Mon, Mar 03** |[**Home exam**](./Exam#readme): Duration: 3 hours;  <br>Assignment is handed out: 03.03.2025, 09:00; <br>Submission deadline: 03.03.2025, 12:00; <br>Examination system: Inspera Digital exam
